@@ -7,6 +7,8 @@ This repository is a customized and updated version of the original ORB-SLAM3 li
 The original project can be found here:
 **[https://github.com/UZ-SLAMLab/ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3)**
 
+**Note**: Only the custom code that I added or modified is included in this GitHub repository. The full updated codebase, including all modified C++/Python files and configuration updates, is available in the following Google Drive link: **[https://drive.google.com/file/d/1eWUgCB8c9Hidf_X2DhI-G1IVvoJUMh6k/view?usp=sharing](https://drive.google.com/file/d/1eWUgCB8c9Hidf_X2DhI-G1IVvoJUMh6k/view?usp=sharing)**
+
 ---
 
 ## **What I Updated**
